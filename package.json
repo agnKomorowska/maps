@@ -1,0 +1,22 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "homework for recruitment at Mangopay",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnKomorowska/maps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnKomorowska/maps/issues"
+  },
+  "homepage": "https://github.com/agnKomorowska/maps#readme",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
